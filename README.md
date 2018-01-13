@@ -1,4 +1,4 @@
-Dash Core staging tree 0.12.2
+Dushi Core staging tree 0.12.2
 ===============================
 
 `master:` [![Build Status](https://travis-ci.org/dashpay/dash.svg?branch=master)](https://travis-ci.org/dashpay/dash) `develop:` [![Build Status](https://travis-ci.org/dashpay/dash.svg?branch=develop)](https://travis-ci.org/dashpay/dash/branches)
@@ -6,17 +6,17 @@ Dash Core staging tree 0.12.2
 https://www.dash.org
 
 
-What is Dash?
+What is Dushi?
 ----------------
 
-Dash is an experimental new digital currency that enables anonymous, instant
+Dushi is an experimental new digital currency that enables anonymous, instant
 payments to anyone, anywhere in the world. Dash uses peer-to-peer technology
 to operate with no central authority: managing transactions and issuing money
 are carried out collectively by the network. Dash Core is the name of the open
 source software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Dash Core software, see https://www.dash.org/get-dash/.
+the Dushi Core software, see https://www.dash.org/get-dash/.
 
 
 License
